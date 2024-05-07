@@ -2,4 +2,6 @@
 
 
 [chrome://version](chrome://version)
-[baidu](baidu.com)
+
+
+[baidu](https://www.baidu.com)
