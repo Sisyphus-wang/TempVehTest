@@ -4,4 +4,4 @@
 [chrome://version](chrome://version)
 
 
-[baidu](https://www.baidu.com)
+[local_http](http://192.168.100.1)
